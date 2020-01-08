@@ -1,0 +1,41 @@
+
+
+.orange {
+   
+    color: orange;
+   position: relative;
+   
+  
+    
+} 
+/* .orange:hover {
+    animation-name: rainbow;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+  }
+    @keyframes rainbow {
+      0%{
+      color:blue;
+      top: 0px;
+     } 
+    50%{
+      color:green;
+      top: 50px;
+     }
+     100%{
+      color:yellow;
+      top: 0px;
+     } 
+  } */
+
+  .bold{
+      font-weight: bold;
+      text-decoration: underline;
+      list-style: none;
+  }
+
+  #pdf{
+    height: 70px;
+    width: 100px;
+  }
